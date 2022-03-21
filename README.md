@@ -48,6 +48,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [TinyG](https://github.com/synthetos/TinyG) - Open souce;6 axis;More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Close souce;Grbl-compatible stepper motor control shield for Arduino, similar to the [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Close souce;Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
+- [MKS-DLC](https://github.com/makerbase-mks/MKS-DLC): Close source.
 
 ### Accessories
 
