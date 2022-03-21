@@ -44,10 +44,10 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-- [TinyG](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the [grblShield](https://github.com/synthetos/grblShield).
-- [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
+- [grblShield](https://github.com/synthetos/grblShield) - Open souce;3 Axis;All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+- [TinyG](https://github.com/synthetos/TinyG) - Open souce;6 axis;More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Close souce;Grbl-compatible stepper motor control shield for Arduino, similar to the [grblShield](https://github.com/synthetos/grblShield).
+- [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Close souce;Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Accessories
 
@@ -69,6 +69,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
 
+- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - A GCode sender (not only for lasers or plotters) for up to two GRBL controller. SVG, DXF, HPGL import. 6 axis DRO.
 - [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
 - [Chiplotle on Parallel Port](https://gitlab.com/mononym/chiplotle-on-parallel-port) - Tweak of Chiplotle to work with a parallel port connection.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
